@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Akash Chawdhery, an enthusiastic IT student passionate about coding, problem-solving, and technology's potential to create meaningful change. Here, you'll find a collection of my projects, exploring various aspects of programming, web development, and more. I believe in the power of collaboration and continuous learning, so feel free to explore, collaborate, and connect. Let's code and innovate together! 🚀
+I'm Akash Chawdhery, a Software Engineer passionate about coding, problem-solving, and technology's potential to create meaningful change. Here, you'll find a collection of my projects, exploring various aspects of programming, web development, and more. I believe in the power of collaboration and continuous learning, so feel free to explore, collaborate, and connect. Let's code and innovate together! 🚀
 
 
 ## 🌐 Socials:
